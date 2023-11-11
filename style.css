@@ -1,0 +1,67 @@
+.contacts {
+    background-color: lightgreen;
+}
+
+.about {
+    background-color: lightcoral;
+}
+
+.skills {
+    background-color: cadetblue;
+}
+
+.code {
+    background-color: grey;
+}
+
+.courses {
+    background-color: cornflowerblue;
+}
+
+.languages {
+    background-color: darkslateblue;
+}
+
+.others {
+    background-color: peru;
+}
+
+.imagecv {
+    background-color: gold;
+}
+
+.header {
+    background-color: violet;
+}
+
+.img1 {
+    background-color: red;
+}
+
+.img2 {
+    background-color: orange;
+}
+
+.img3 {
+    background-color: yellow;
+}
+
+.img4 {
+    background-color: green;
+}
+
+.img5 {
+    background-color: cyan;
+}
+
+.img6 {
+    background-color: blue;
+}
+
+.img7 {
+    background-color: purple;
+}
+
+.text-black {
+    color: black;
+}
